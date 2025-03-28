@@ -7,7 +7,7 @@ Repositorio para armazena resumo sobre Git e GitHub do curso versionamento de c�
 
 # Resumos das aulas
 | Aulas | Resumos |
-|```|```|
+|-----|-----|
 |Alteração| [Resumos]()|
 
 ```
